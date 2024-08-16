@@ -1,0 +1,46 @@
+.st-1{
+    text-align: center;
+    border: 2px solid blue;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 20px;
+}
+
+h1{
+    color: green;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.st-s1{
+    border: 3px solid green;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+h2{
+    color: blue;
+ text-align: center;
+}
+
+button{
+    background-color: rgb(103, 103, 244);
+    color: aliceblue;
+    cursor: pointer;
+}
+
+.spoiler{
+    background-color: black;
+    color: black;
+    cursor: pointer;
+}
+
+.spoiler::selection{
+    color: black;
+}
+
+span{
+    transition: .5s;
+}
+
